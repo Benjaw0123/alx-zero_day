@@ -1,0 +1,14 @@
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;23r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[23;1H"/alx-zero_day/.git/COMMIT_EDITMSG" 14L, 348C[2;1H[34m# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch [m[35mmaster[m
+[34m# Your branch is up to date with '[m[35morigin/master[m[34m'.
+#
+# [m[35mChanges to be committed:[m
+[34m#       [m[32mnew file[m[34m: [m[31m  0x03-git/up_to_date[m
+[34m#       [m[32mdeleted[m[34m: [m[31m   up_to_date[m
+[34m#
+# [m[35mUntracked files:[m
+[34m#       [m[31mHow to be up to date in git[m
+[34m#[m
+[1m[34m~                                                                                     [16;1H~                                                                                     [17;1H~                                                                                     [18;1H~                                                                                     [19;1H~                                                                                     [20;1H~                                                                                     [21;1H~                                                                                     [22;1H~                                                                                     [m[23;69H1,0-1[9CAll[1;1H[?25h[?25l[23;59Hg[1;1H[?25h[?25l[23;59H [1;1H[23;59Hgi[1;1H[23;59H  [1;1H[23;1H[1m-- INSERT --[m[23;13H[K[23;69H1,1[11CAll[1;1H[?25h[?25l[33mt[m[23;71H2[1;2H[?25h[?25l[33m [m[23;71H3[1;3H[?25h[?25l[33mg[m[23;71H4[1;4H[?25h[?25l[33mg[m[23;71H5[1;5H[?25h[?25l[33mg[m[23;71H6[1;6H[?25h[?25l[33me[m[23;71H7[1;7H[?25h[?25l[33me[m[23;71H8[1;8H[?25h[?25l[33me[m[23;71H9[1;9H[?25h[?25l[33me[m[23;71H10[1;10H[?25h[?25l[33me[m[23;72H1[1;11H[?25h
