@@ -1,0 +1,30 @@
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;23r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[23;1H[1m[37m[41mE325: ATTENTION[m
+Found a swap file by the name "/alx-zero_day/.git/.COMMIT_EDITMSG.swp"
+[10Cowned by: root   dated: Tue Feb 07 10:08:53 2023
+[9Cfile name: /alx-zero_day/.git/COMMIT_EDITMSG
+[10Cmodified: YES
+[9Cuser name: root   host name: f085e04ffe42
+[8Cprocess ID: 3547 (STILL RUNNING)
+While opening file "/alx-zero_day/.git/COMMIT_EDITMSG"
+[13Cdated: Tue Feb 07 11:43:26 2023
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r /alx-zero_day/.git/COMMIT_EDITMSG
+[22;85H"[23;1H
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file "/alx-zero_day/.git/.COMMIT_EDITMS
+[22;85HG[23;1H.swp"
+    to avoid this message.
+
+[32m-- More --[?25h SPACE/d/j: screen/page/line down, b/u/k: up, q: quit [m[23;1H[K[23;1H[32mSwap file "/alx-zero_day/.git/.COMMIT_EDITMSG.swp" already exists![m
+[32m[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: [m[23;1H[K[?25l[23;1H"/alx-zero_day/.git/COMMIT_EDITMSG" [readonly] 28L, 724C[1;1H[33mMerge branch 'update_script'[m[1;29H[K[2;11H[K[3;1H[34m# [m[35mConflicts:[m[3;13H[K[4;1H[34m#       0x03-git/bash/alx
+#[m[5;10H[K[6;1H[34m# It looks like you may be committing a merge.
+# If this is not correct, please remove the file[m[7;49H[K[8;1H[34m#       .git/MERGE_HEAD[m[8;25H[K[9;1H[34m# and try again.[m[9;18H[K[11;1H[K[12;1H[34m# Please enter the commit message for your changes. Lines starting[m[12;67H[K[13;1H[34m# with '#' will be ignored, and an empty message aborts the commit.
+#[m[14;2H[K[15;1H[34m# On branch [m[35mmaster[m[15;20H[K[16;1H[34m# Your branch is up to date with '[m[35morigin/master[m[34m'.
+#[m[17;5H[K[18;1H[34m# All conflicts fixed but you are still merging.[m[18;49H[K[19;1H[34m#[m[19;2H[K[20;1H[34m# [m[35mChanges to be committed:[m
+[34m#       [m[32mnew file[m[34m: [m[31m  0x03-git/bash/.alx.swp[m
+[34m#       [m[32mnew file[m[34m: [m[31m  0x03-git/bash/98[m[22;37H[K[23;68H1,1[11CTop[1;1H[?25h[?25l[23;58Hv[1;1H[23;58H1[1;1H[23;1H[1m-- VISUAL --[m[23;13H[K[23;58H1[1;1H[23;68H1,1[11CTop[1;1H[?25h[?25l[23;58Hi[1;1H[?25h[?25l[23;59Hm[1;1H[23;58H1 [1;1H[?25h[?25l[23;58Hv[1;1H[23;58H [1;1H[23;1H[K[23;68H1,1[11CTop[1;1H[?25h[?25l[23;58Hi[1;1H[23;58H [1;1H[23;1H[1m-- INSERT --[m[23;68H[K[23;68H1,1[11CTop[23;14H[31mW10: Warning: Changing a readonly file[m[23;68H[K[?2004l[?2004h[1;1H[33mmMerge branch 'update_script'[m[23;68H1,2[11CTop[1;2H[?25h[?25l[33miMerge branch 'update_script'[m[23;70H3[1;3H[?25h[?25l[33miMerge branch 'update_script'[m[23;70H4[1;4H[?25h[?25l[33mxzcMerge branch 'update_script'[m[23;70H7[1;7H[?25h[?25l[33mvMerge branch 'update_script'[m[23;70H8[1;8H[?25h[?25l[33miMerge branch 'update_script'[m[23;70H9[1;9H[?25h[?25l[33mfMerge branch 'update_script'[m[23;70H10[1;10H[?25h[?25l[33mvMerge branch 'update_script'[m[23;71H1[1;11H[?25h[?25l[33meMerge branch 'update_script'[m[23;71H2[1;12H[?25h[?25l[33mbMerge branch 'update_script'[m[23;71H3[1;13H[?25h[?25l[33mfMerge branch 'update_script'[m[23;71H4[1;14H[?25h[?25l[33mdMerge branch 'update_script'[m[23;71H5[1;15H[?25h[23;1H[K[1;14H[?25l[23;58H^[[1;14H[23;58H  [1;15H[23;68H1,14[10CTop[1;14H[?25h[?25l[23;58Hv[1;14H[23;58H1[1;14H[23;1H[1m-- VISUAL --[m[23;58H[K[23;58H1[1;14H[23;68H1,14[10CTop[1;14H[?25h[?25l[23;58Ha[1;14H[?25h[?25l[23;59Hs[1;14H[23;58H42[1;42H[7m[33mmiixzcvifvebfdMerge branch 'update_script[m[23;58H[K[23;58H42[1;42H[23;68H1,42[10CTop[1;42H[?25h[?25l[23;58Hd [1;42H[23;58H [1;1H[1;1H[K[23;1H[K[23;68H1,0-1[9CTop[1;1H[?25h[?25l[23;58Hc[1;1H[?25h[?25l[23;59Hf[1;1H[?25h[?25l[23;60Hg[1;1H[23;58H   [1;1H[?25h
